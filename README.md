@@ -1,6 +1,4 @@
-
-
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey there 👋?</h1>
 
 <p align="left">
 I'm Kavya, a Cybersecurity Engineering student interested in Blockchain, Web3, and backend development.<br>
@@ -93,22 +91,34 @@ I enjoy building smart contracts, full-stack apps, and experimenting with decent
 
 <h2 align="center">🔥 Featured Projects</h2>
 
-<h3>🪙 ERC20 Token Factory DApp</h3>
+<h3>
+  <a href="https://github.com/Kavya-T412/Create_Own_Token.git" target="_blank">
+  🪙 ERC20 Token Factory DApp
+</h3>
 <p>
 Create custom ERC-20 tokens with a no-code UI using Solidity, React, TypeScript, WalletConnect, and Ethers.js.
 </p>
 
-<h3>🏛 CivicChain – Decentralized Governance Platform</h3>
+<h3>
+  <a href="https://github.com/Kavya-T412/GovtPlatform.git" target="_blank">
+  🏛 CivicChain – Decentralized Governance Platform
+</h3>
 <p>
 Blockchain governance platform for citizen services with role-based smart contract access and wallet authentication.
 </p>
 
-<h3>🖼 MintGuard – NFT Minting Platform</h3>
+<h3>
+  <a href="https://github.com/Kavya-T412/MintGuard.git" target="_blank">
+  🖼 MintGuard – NFT Minting Platform
+</h3>
 <p>
 Secure ERC-721 NFT minting and management platform with IPFS metadata and animated Web3 UI.
 </p>
 
-<h3>🔎 ExBlok – Blockchain Data Explorer</h3>
+<h3>
+  <a href="https://github.com/Kavya-T412/Blok_Explorer.git" target="_blank">
+  🔎 ExBlok – Blockchain Data Explorer
+</h3>
 <p>
 Real-time blockchain explorer to track transactions, wallet balances, and block information.
 </p>
@@ -141,15 +151,15 @@ Real-time blockchain explorer to track transactions, wallet balances, and block 
 
 <div align="left">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/kavya-t-9990b2315/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
 </a>
 
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+<a href="https://x.com/tkavya402" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"/>
 </a>
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+<a href="https://discord.com/users/kavya_0412" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
 </a>
 
@@ -159,8 +169,6 @@ Real-time blockchain explorer to track transactions, wallet balances, and block 
 
 </div>
 
----
-
 <div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"/>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>

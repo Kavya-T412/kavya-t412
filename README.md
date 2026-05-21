@@ -1,4 +1,4 @@
-<h1 align="left">Hey there 👋?</h1>
+<h1 align="left">Hey there 👋</h1>
 
 <p align="left">
 I'm Kavya, a Cybersecurity Engineering student interested in Blockchain, Web3, and backend development.<br>
@@ -169,6 +169,6 @@ Real-time blockchain explorer to track transactions, wallet balances, and block 
 
 </div>
 
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
